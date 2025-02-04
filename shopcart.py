@@ -58,3 +58,4 @@ while True:
     
     else:
         print("Neplatná voľba, skúste znova.")
+        
