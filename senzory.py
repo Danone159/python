@@ -20,5 +20,5 @@ def read_sensor_data(file_name):
     except ValueError:
         print("Súbor obsahuje neplatné dáta. Každý riadok musí obsahovať celé číslo.")
 
-file_name = input("Zadajte názov súboru: ")
+file_name = "/home/danieldropco/python/datambaza.txt"
 read_sensor_data(file_name)
