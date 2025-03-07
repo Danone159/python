@@ -14,5 +14,5 @@ def analyze_file(filename):
     except FileNotFoundError:
         print(f"Chyba: Súbor '{filename}' sa nenašiel.")
 
-file_input = "data_k_ulohe_3.txt"
+file_input = "/home/danieldropco/python/data_k_ulohe_3.txt"
 analyze_file(file_input)
