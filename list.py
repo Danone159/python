@@ -19,3 +19,8 @@ print("znaky[4]", zeros[1][:3])
 print("znaky[4]", matrix[1:])
 print("sucet", letters + cisla)
 print(len(cisla+letters))
+
+
+print("znaky[4]", zeros[::-1])
+print("znaky[4]", letters[::-1])
+print("znaky[4]", cisla[::-1])
