@@ -6,3 +6,10 @@ for i in range(1,4):
         break 
 else:
     print("Nebraklo to - chybné")
+
+value = 1
+while value <=10:
+    print(value)
+    if value == 5:
+        break
+    value += 1
